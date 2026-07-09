@@ -6,7 +6,7 @@ A crisp, pixel-perfect digital clock for [OpenDeck](https://github.com/nekename/
 
 ## Preview
 
-| Auto (day) | Auto (night) | Custom colour |
+| Auto (day) | Auto (night) | Custom color |
 |:----------:|:------------:|:-------------:|
 | ![Day](preview/clock_auto.png) | ![Night](preview/clock_black.png) | ![Custom](preview/clock_purple.png) |
 
@@ -18,9 +18,9 @@ A crisp, pixel-perfect digital clock for [OpenDeck](https://github.com/nekename/
 - **Full date display** — day of week, month, date, and year all on one button
 - **12h or 24h** — with AM/PM indicator in 12h mode, positioned cleanly below the time
 - **Optional seconds** — toggle on for a full `HH:MM:SS` display
-- **Auto sky background** — the background colour shifts gradually through the day:
+- **Auto sky background** — the background color shifts gradually through the day:
 
-| Time | Colours |
+| Time | Colors |
 |------|---------|
 | Midnight | Deep navy |
 | Pre-dawn | Dark purple |
@@ -32,7 +32,7 @@ A crisp, pixel-perfect digital clock for [OpenDeck](https://github.com/nekename/
 | Night | Dark navy |
 
 - **Full black mode** — classic, minimal, always sharp
-- **Custom colour mode** — pick any background colour; text automatically inverts for legibility
+- **Custom color mode** — pick any background color; text automatically inverts for legibility
 - **Pure JS rendering** — no native binaries, no canvas module, no compilation needed
 
 ---
@@ -52,7 +52,7 @@ A crisp, pixel-perfect digital clock for [OpenDeck](https://github.com/nekename/
 
 ---
 
-## Customisation
+## Customization
 
 Click a placed clock button to open its settings panel:
 
@@ -65,9 +65,9 @@ Click a placed clock button to open its settings panel:
 ### Background
 | Setting | Description |
 |---------|-------------|
-| **Auto** | Sky gradient that shifts from midnight through sunrise, day, sunset, and back to night. Text colour adapts automatically. |
+| **Auto** | Sky gradient that shifts from midnight through sunrise, day, sunset, and back to night. Text color adapts automatically. |
 | **Full black** | Solid black background, white text. |
-| **Custom colour** | Colour picker — text inverts automatically based on brightness. |
+| **Custom color** | Color picker — text inverts automatically based on brightness. |
 
 ---
 
